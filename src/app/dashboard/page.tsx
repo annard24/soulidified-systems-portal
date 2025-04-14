@@ -1,3 +1,4 @@
+"use client";
 import AuthGuard from "@/components/auth/auth-guard";
 import Navbar from "@/components/layout/navbar";
 import { useUserRole } from "@/lib/hooks/useUserRole";
